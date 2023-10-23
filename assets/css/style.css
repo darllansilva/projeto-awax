@@ -75,3 +75,14 @@ header {
 }
 
 /* end header */
+
+/* section banner */
+.banner {
+    height: calc(100vh - 100px);
+    background-color: #333;
+    background-image: url(../image/bg.jpg);
+    background-size: cover;
+    background-position: bottom;
+    
+}
+/* end banner */
