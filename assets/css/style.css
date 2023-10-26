@@ -10,6 +10,7 @@
 body {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     font-size: 13px;
+    overflow-x: hidden;
 }
 
 /* header */
@@ -166,6 +167,15 @@ header {
 .banner .pointer.active {
     background-color: var(--cor-padrao);
 }
+
+/* end banner */
+
+
+/* section default */
+.default {
+    background-color: red;
+}
+/* end default */
 
 
 
